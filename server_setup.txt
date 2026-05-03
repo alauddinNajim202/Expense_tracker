@@ -1,0 +1,27 @@
+Server setup:
+
+Database:
+
+server name : wedding-mysql-server
+
+
+login: weddingmysqlserver
+password: Najim115174@@
+
+
+database name: laravel_db
+
+
+Host:     wedding-mysql-server.mysql.database.azure.com
+Port:     3306
+Database: laravel_db
+Username: mysqladmin
+Password: Najim115174@@
+SSL:      Required
+
+
+app service :
+
+name : weddingpalette
+
+
